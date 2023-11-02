@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/christyguajardo/azure-network-protocols)
   - [Setting Up Virtual Machines within Azure](https://github.com/christyguajardo/virtual-machines)
-  - [Setting Up Virtual Private Networks (VPNs) within Azure] 
+  
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
